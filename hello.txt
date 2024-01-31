@@ -8,3 +8,6 @@ git log    -- to check
 git branch -M main local changes to repository
 git remote add origin https://github.com/Manikantasai04/freshProject.git to remote  repository 
 git push -u origin main
+git pull
+click exit :wq
+
