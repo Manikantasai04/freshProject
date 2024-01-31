@@ -11,5 +11,9 @@ git push -u origin main
 git pull
 click exit :wq
 
-hsavdyuavgdyfshvjvjhvjvaj
+git checkout test
+to change to other branch
+
+git push -u origin test
+iusabhvbdvsadbsahjds
 
